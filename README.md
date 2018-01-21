@@ -1,4 +1,2 @@
-Jai Panthail's personal page
-
-Forked and modified from:
-Github Pages template for academic personal websites, forked from mmistakes/minimal-mistakes (academicpages/academicpages.github.io)
+Jai Panthail's personal page. This was forked from mmistakes/minimal-mistakes (academicpages/academicpages.github.io).
+Original template was released under the MIT License. See LICENSE.md.
