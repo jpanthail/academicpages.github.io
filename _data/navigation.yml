@@ -1,5 +1,8 @@
 # main links links
 main:
+  - title: "About"
+    url: /about/  
+
   - title: "Work"
     url: /work/    
 
@@ -9,7 +12,7 @@ main:
   - title: "Blog"
     url: /blog/
     
-   - title: "Other Interests"
+   - title: "Outside of Work"
     url: /interests/
         
   - title: "Contact"
