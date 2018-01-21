@@ -47,7 +47,6 @@ staticman:
 atom_feed:
   path                   : # blank (default) uses feed.xml
 future                   : true
-timezone                 : "America/Los_Angeles"
 
 # SEO Related
 google_site_verification :
