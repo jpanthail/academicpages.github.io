@@ -11,49 +11,20 @@ redirect_from:
 
 Education
 ======
-* B.S. in Github, Github University, 2012
-* M.S. in Jekyll, Github University, 2014
-* Ph.D in Version Control Theory, Github University, 2018 (expected)
+* B.Tech. (Honors) in Civil Engineering, Gandhi Institute of Technology (Visakhapatnam, India), 2013
+* M.S. in Civil and Environmental Engineering, University of Utah, 2015
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* June 2015 - Present: Staff Engineer
+  * Geosyntec Consultants, Los Angeles, CA
+  * Primary areas: Hydraulic and hydrodynamic modeling, analytics and data management
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Aug 2013 - April 2015: Graduate Research Assistant
+  * Urban Water Group, Civil and Environmental Engineering, University of Utah
+  * Primary areas: Machine learning, remote sensing, image processing, hydrological modeling
+  * Supervisor: [Prof.Steven Burian](https://www.civil.utah.edu/burian)
   
-Skills
+Full resume
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
-
-Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+You can find my full resume [here]( https://jpanthail.github.io/files/paper1.pdf)
