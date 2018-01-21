@@ -12,7 +12,7 @@ main:
   - title: "Blog"
     url: /blog/
     
-   - title: "Outside of Work"
+  - title: "Outside of Work"
     url: /interests/
         
   - title: "Contact"
