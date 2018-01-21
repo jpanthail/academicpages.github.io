@@ -10,7 +10,7 @@ main:
     url: /resume/    
     
   - title: "Blog"
-    url: /interests/
+    url: /blog/
     
    - title: "Other Interests"
     url: /interests/
