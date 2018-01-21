@@ -23,4 +23,3 @@ Interests
 * Geospatial analysis / GIS
 * Programming (Python, R and C++)
 * Data management and analysis
-
