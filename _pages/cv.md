@@ -14,6 +14,9 @@ Education
 * B.Tech. (Honors) in Civil Engineering, Gandhi Institute of Technology (Visakhapatnam, India), 2013
 * M.S. in Civil and Environmental Engineering, University of Utah, 2015
 
+Independent Coursework
+======
+
 Work experience
 ======
 * June 2015 - Present: Staff Engineer
