@@ -1,11 +1,11 @@
 ---
 permalink: /
 title: ""
-excerpt: "fun-stuff"
+excerpt: "work"
 author_profile: true
 redirect_from: 
-  - /fun-stuff/
-  - /fun-stuff.html
+  - /work/
+  - /work.html
 ---
 
 Lorem Ipsum.
