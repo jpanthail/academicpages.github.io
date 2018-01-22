@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Jai Panthail"
 title_separator          : "-"
 name                     : &name "Jai Panthail"
-description              : &description "Environmental Engineer, Data Scientist"
+description              : &description "Environmental Engineer"
 url                      : https://jpanthail.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "jpanthail.github.io"
@@ -81,7 +81,7 @@ analytics:
 author:
   name             : "Jai Panthail"
   avatar           : "jai.jpg"
-  bio              : "Environmental Engineer, Data Scientist"
+  bio              : "Environmental Engineer"
   location         : "Los Angeles, CA, USA"
   employer         :
   googlescholar    : #"http://yourfullgooglescholarurl.com"
