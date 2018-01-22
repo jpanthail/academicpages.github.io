@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: ""
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -27,4 +27,4 @@ Work experience
   
 Full resume
 ======
-You can find my full resume [here]( https://jpanthail.github.io/files/paper1.pdf)
+You can find my full resume **[here]( https://jpanthail.github.io/files/paper1.pdf)**
