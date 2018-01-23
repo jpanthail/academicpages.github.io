@@ -12,7 +12,7 @@ When I'm not not in front of the computer, I love to be outdoors as much as I ca
 I day-hiked Mt.Whitney (14,505 ft), the highest peak in the continental U.S, in 2017 and have also hiked White Mountain (14,252 ft). Here's a picture of me at the trail crest enroute to Mt.Whitney:
 
 
-I've started learning how to ski, and the goal is to get good at it (let's see how that goes!). Here's me at Brighton Ski Resort in Utah during Winter 2016-17:
+I've started learning how to ski, and the goal is to get good at it (let's see how that goes!). Here's me at Brighton Ski Resort in Utah during Winter 2016-17, probably getting excited at having completed a noob green run:
 
 
 
