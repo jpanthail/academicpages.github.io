@@ -18,4 +18,4 @@ Since graduating with a M.S. in 2015 I have worked for a specialized environment
 
 Interests
 ======
-I'm excited by the applications of **computational modeling** in solving scientific and engineering problems, mainly in the areas of **earth and atmosheric sciences**, **transportation engineering**, **remote sensing** and **engineering risk & reliabilty**. I'm particularly interested in **machine learning** as applied to those areas. Because of my background in water resources engineering, I'm also interested in **Computational Fluid Dynamics (CFD)**. I code primarily in **Python**, but have also worked with R, Matlab, C and C++ in the past.
+I'm excited by the applications of **computational modeling** in solving scientific and engineering problems, mainly in the areas of **environmental fluid mechanics**, **urban planning**, **remote sensing** and **engineering risk & reliabilty**. I'm particularly interested in **machine learning** and **high performance computing** as applied to those areas. I code primarily in **Python**, but have also worked with R, Matlab, C and C++ in the past.
