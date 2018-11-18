@@ -22,7 +22,7 @@ I'm excited by the applications of **computational science** in solving scientif
 
 My interest areas include:
 
-* Mesh development for fluid mechanics and structural engineering
+* Mesh development for fluid mechanics, geophysics and structural engineering
 * Reduced-order modeling for fluid mechanics, especially using machine learning
 * Computer vision applications
 * Systems modeling and optimization
